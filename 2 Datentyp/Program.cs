@@ -28,7 +28,7 @@ Console.WriteLine(alter);
 Console.WriteLine(pro);
 
 
-
+//Aufgabe Operatoren 1,2
 string a = "Hallo";
 string b = "H";
 b += "allo";
