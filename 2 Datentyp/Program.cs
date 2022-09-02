@@ -29,6 +29,29 @@ Console.WriteLine(pro);
 
 
 
+string a = "Hallo";
+string b = "H";
+b += "allo";
+
+Console.WriteLine(b);            // Hallo
+
+Console.WriteLine(b . Length);   // 5
+
+Console.WriteLine(a == b);      // True
+
+Console.WriteLine((object)a == b);  // False
+
+
+double x = 2.0;
+double y = x * x + 1 + x / 4;
+double x = 2.0;
+double y = x * (x + 1 + x / 4);
+bool b = true && false || 5 > 6;
+int z = 50;
+bool numeric = z > 47 && z < 58
+
+
+
 
 
 
